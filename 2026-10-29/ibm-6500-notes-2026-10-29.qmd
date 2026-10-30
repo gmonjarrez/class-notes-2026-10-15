@@ -71,3 +71,9 @@ Technology supports three areas of research:
 
 - Dr. Jung discussed consolidating some previous and upcoming assignments.
 - The assignments and CEP project are intended to help us stay on track.
+
+## GitHub links
+
+- [Class notes repository](https://github.com/gmonjarrez/class-notes-2026-10-15)
+- [Quarto source (.qmd)](https://github.com/gmonjarrez/class-notes-2026-10-15/blob/main/2026-10-29/ibm-6500-notes-2026-10-29.qmd)
+- [HTML file](https://github.com/gmonjarrez/class-notes-2026-10-15/blob/main/2026-10-29/ibm-6500-notes-2026-10-29.html)
