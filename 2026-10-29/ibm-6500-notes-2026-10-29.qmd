@@ -1,0 +1,119 @@
+---
+title: "IBM 6500 — Class Notes"
+subtitle: "Guest speaker: Travis Miller, PureSpectrum"
+date: 2026-10-29
+date-format: "MMMM D, YYYY"
+lang: en
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+    smooth-scroll: true
+---
+
+**Instructor:** Dr. Jung  
+**Topic:** Market research and insights careers; technology in the industry
+
+::: {.callout-note title="Sources and coverage"}
+Guest lecture notes summarize the three supplied screenshots: career-path slides 3 and 4, plus a technology slide. Speaker identity comes from the student's description. Course announcements below come from the student's recollection, not the guest slides. These notes cover only the material supplied.
+:::
+
+## Main takeaways
+
+- Market research and insights offer varied career paths, with technology changing the kinds of roles available.
+- Preparation combines analytical skills, communication, critical thinking, and an interest in people and consumer behavior.
+- Internships and research agencies can provide entry points; brands and research-support vendors offer additional paths.
+- Technology supports survey development, sampling, analysis, and reporting. Miller also highlighted automation, synthetic data, and AI-moderated interviews.
+- The research process begins with a problem, moves through data collection, and produces answers.
+
+## Guest lecture: career preparation
+
+### Skills and coursework
+
+Miller emphasized that entering the field can require substantial learning on the job, particularly to understand data analytics. His recommended areas of study included:
+
+| Area | Subjects highlighted in the slides |
+|---|---|
+| Quantitative and business foundations | Statistics, economics, business, analytics |
+| Communication | Reading and writing |
+| Reasoning | Problem solving and critical thinking |
+| Understanding people | Consumer behavior |
+
+Beyond coursework, he encouraged attention to current events, history, human behavior, technology trends, consumer buying behavior, and political polling.
+
+**Study takeaway:** Research involves both working with data and understanding the people and circumstances behind it. This is a synthesis of the slide themes.
+
+### Entry points and career paths
+
+| Path | Miller's guidance | Consideration |
+|---|---|---|
+| Internships and hands-on research opportunities | Seek opportunities to conduct market research. | Practical experience helps build familiarity with the field. |
+| Market research agencies | Agencies can be a strong starting point. | Look for work in an industry that interests you. Miller mentioned his interest in automotive. |
+| Brands and other organizations | Areas mentioned included politics, nonprofits, entertainment, and consumer goods. | Brands tend to seek researchers with more experience. |
+| Research-support vendors | Examples included survey platforms, sample companies, and interviewing locations. | Some roles may offer less analytical training, but can also create routes into other fields. |
+| Entrepreneurship | Miller described opportunities to start a firm, technology product, or service after gaining experience. | He cited roughly 7–10 years of experience and described a market for independent practitioners and small firms. This is the speaker's perspective, not a guaranteed career timeline. |
+
+Learning the basics can support movement among roles and sectors. The slides frame market research as a broad industry with multiple ways to enter and develop a career.
+
+## Guest lecture: technology and market research
+
+### Technology used in the research workflow
+
+The technology slide identified three areas:
+
+1. **Survey programming:** developing surveys for data collection.
+2. **Programmatic sampling:** technology-supported sampling.
+3. **Data analytics and report building:** working with collected data and communicating findings.
+
+The short descriptions above are study explanations; the slide lists the three topic names without detailed definitions.
+
+### Developments Miller highlighted
+
+- Automated fieldwork.
+- Synthetic data and large datasets.
+- AI-moderated interviews.
+
+Miller presented these as developments beginning to emerge. The supplied screenshot does not provide examples, performance comparisons, or detailed discussion of their limitations.
+
+## Dr. Jung: assignments and CEP project
+
+::: {.callout-warning title="Announcement details still need confirmation"}
+The student recalls that Dr. Jung discussed previous and upcoming assignments, explained that some assignments are being consolidated, and connected the assignments and CEP project with staying on track. The supplied screenshots do not contain these announcements.
+:::
+
+| Topic | What is captured so far | Information still needed |
+|---|---|---|
+| Previous and upcoming assignments | Dr. Jung reviewed them during class. | Assignment names and required work. |
+| Consolidation | Some assignments are being combined. | Which assignments, the combined deliverable, and submission location. |
+| Schedule | Assignments were discussed as a way to support progress. | Any revised due dates or checkpoints. |
+| CEP project | Dr. Jung discussed the project and staying on track. | Specific milestones, deliverables, and how the consolidated assignments connect. |
+
+### Follow-up checklist
+
+- [ ] Identify the assignments being consolidated.
+- [ ] Record the final deliverable and where it must be submitted.
+- [ ] Confirm whether any deadlines changed.
+- [ ] Record the next CEP milestone and its due date.
+- [ ] Map each confirmed assignment to the CEP work it supports.
+
+### Possible connection to CEP — study reflection
+
+The guest lecture's problem-to-data-to-answers workflow provides a useful way to think about project progress: clarify the question, identify the needed data, and explain what the evidence shows. This connection is a study reflection, not a CEP requirement stated in the screenshots.
+
+## Review questions
+
+1. Which analytical and communication skills did Miller recommend developing?
+2. How do agencies, brands, and research-support vendors differ as career entry points?
+3. What trade-off did Miller identify for starting at a vendor?
+4. Which parts of research already use technology, according to the slide?
+5. Which emerging technologies did he highlight?
+6. What assignment and CEP details still need to be confirmed with Dr. Jung's instructions?
+
+## Source record
+
+- Screenshot captured October 29, 2026, at 7:15:06 PM: career preparation, slide 3.
+- Screenshot captured October 29, 2026, at 7:19:43 PM: career entry points and entrepreneurship, slide 4.
+- Screenshot captured October 29, 2026, at 7:22:51 PM: technology in market research and insights.
+- Student's recollection in this chat: assignment consolidation and CEP discussion.
